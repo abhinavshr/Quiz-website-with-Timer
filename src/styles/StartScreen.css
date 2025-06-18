@@ -1,0 +1,18 @@
+.start-screen {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.start-button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.start-button:hover {
+  background-color: #45a049;
+}
